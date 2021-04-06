@@ -1,2 +1,2 @@
 # speech_to_text_python-gui
-It convert speech to text.
+A few lines of code written in python using libraries (SpeechRecognition, PyAudio) that convert speech to text.
