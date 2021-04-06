@@ -9,7 +9,7 @@ To run the python script, your system must have the following programs/packages 
 
 ## Description
 
-To improve the code, a Gui has been implemented with options to strat or quit.
+To improve the code, a Gui has been implemented with options to start or quit.
 
 ![Screenshot (126)](https://user-images.githubusercontent.com/81071871/113744120-098f4a80-9722-11eb-92fa-e06222b08cb8.png)
 
