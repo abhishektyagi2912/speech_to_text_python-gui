@@ -3,6 +3,6 @@ A few lines of code written in python using libraries (SpeechRecognition, PyAudi
 ## Requirements
 To run the python script, your system must have the following programs/packages installed.
 
-Python 3
-pip install SpeechRecognition
-pip install pygame
+1. Python 3
+2. pip install SpeechRecognition
+3. pip install pygame
